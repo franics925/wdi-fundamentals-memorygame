@@ -78,7 +78,7 @@ img {
 footer {
 	text-transform: uppercase;
 	padding: 0px 20px 0px 20px;
-	background-color: #0D2C40;
+	background: #0D2C40;
 	color: #FFFFFF;
 	font-size: 14px;
 	letter-spacing: .08em;
@@ -88,10 +88,12 @@ footer {
 
 .copyright {
 	float: left;
+	color: black;
 }
 
 .message {
 	float: right;
+	color: black;
 }
 
 .clearfix:after {
