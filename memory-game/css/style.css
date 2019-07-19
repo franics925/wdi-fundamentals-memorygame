@@ -75,27 +75,6 @@ img {
 	margin: 40px 8px;
 }
 
-footer {
-	text-transform: uppercase;
-	padding: 0px 20px 0px 20px;
-	background: #0D2C40;
-	color: #FFFFFF;
-	font-size: 14px;
-	letter-spacing: .08em;
-	font-weight: 500;
-	font-family: "Raleway";
-}
-
-.copyright {
-	float: left;
-	color: black;
-}
-
-.message {
-	float: right;
-	color: black;
-}
-
 .clearfix:after {
 visibility: hidden;
 display: block;
@@ -104,6 +83,28 @@ clear: both;
 height: 0;
 font-size: 0;
 }
+
+footer {
+	text-transform: uppercase;
+	padding: 0px 20px 0px 20px;
+	background-color: #0D2C40;
+	color: #FFFFFF;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+	font-family: "Raleway";
+	height: 50px;
+}
+
+.copyright {
+	float: left;
+}
+
+.message {
+	float: right;
+}
+
+
 
 .name {
 	color: #F15B31
